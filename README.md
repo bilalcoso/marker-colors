@@ -1,6 +1,6 @@
 # Marker Colors
 
 Hey there!  
-This is my little project where I played around with marker colors and some simple HTML/CSS.
+This project is something I built while practicing HTML and CSS on freeCodeCamp.
 
 https://bilalcoso.github.io/marker-colors/
